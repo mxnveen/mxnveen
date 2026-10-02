@@ -1,4 +1,5 @@
-<img width="736" height="190" alt="Alpha pattern #29926" src="https://github.com/user-attachments/assets/5af900ca-ee67-4fd6-8017-5812f20d2d94" />
+<img width="1196" height="227" alt="IMG_9407" src="https://github.com/user-attachments/assets/d4615e1f-aeba-4d30-a509-ecc80495ccf9" />
+
 
 <img width="2560" height="1145" alt="github_banner" src="https://github.com/user-attachments/assets/82fff506-c07a-463b-b14d-abc85ae10de8" />
 
