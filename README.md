@@ -28,11 +28,16 @@ interests:
 ```
 <h3 align="center">Tools & Technologies</h3>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/on/python-original.svg
+<h3 align="center">Tools & Technologies</h3>
+
 <p align="center">
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg
-  <img src="https://cdn.jsdelivrvicons/devicon/icons/r/r-original.svg
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-originalg src="https://cdn.jsdelivr.net/gh/evicon/icons/cplusplus/cplusplus-original.svg
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" heighth/devicons/devicon/icons/css3/css3-original.svg
+  <img src="https://cdn.jsdelivr.net/gh/deviconscons/python/python-original.svg
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-vg
+  <imgs://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg
+  <img src="https://cdn.jsdelivr.net/gh/evicon/icons/cplusplus/cplusplus-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
+  <img src="https://cdn.jsdelivr.net/gh/deviconscons/css3/css3-original.svg
   https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg
 </p>
-
+``
