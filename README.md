@@ -41,7 +41,8 @@ interests:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="45" height="45" />
 
-
-
-
 </p>
+
+## GitHub Stats
+
+![Manveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mxnveen&show_icons=true&op Languages](https://github-readme-statsop-langs/?username=mxnveen&layout=compact&theme=midnight-purple
