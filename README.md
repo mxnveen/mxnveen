@@ -5,6 +5,7 @@
 
 
 <h1 align="center">Manveen Kaur</h1>
+<p align="center"> Vancouver, Canada</p>
 
 <p align="center">
 Data Analyst • Visual Designer • Developer
@@ -48,3 +49,19 @@ interests:
 </div>
 
 ![Snake animation](https://github.com/mxnveen/mxnveen/raw/output/github-contribution-grid-snake.svg)
+
+<br>
+<br>
+
+<div align="center">
+  <h3>Let's Connect!</h3>
+  
+  <a href="mailto:YOUR_EMAIL_HERE">
+    <img src="https://img.shields.io/badge/Email-6B21A8?style=for-the-badge&logo=gmail&logoColor=white" alt="mnvnsaini@gmail.com" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL_HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" alt="[LinkedIn](https://www.linkedin.com/in/mnveenkaur/)" />
+  </a>
+
+  <br>
+</div>
