@@ -45,4 +45,6 @@ interests:
 
 ## GitHub Stats
 
-![Manveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mxnveen&show_icons=true&op Languages](https://github-readme-statsop-langs/?username=mxnveen&layout=compact&theme=midnight-purple
+![Manveen's GitHub Stats](https://githubpi?username=mxnveen&show_icons=true&theme=midnight-purple
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=midnight-purple
