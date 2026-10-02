@@ -15,8 +15,6 @@ Data Analyst • Visual Designer • Developer
 Building digital experiences through data, code, and a bit of creativity
 </p>
 
-<br>
-
 ```yaml
 interests:
   - Data Mining & Analysis
