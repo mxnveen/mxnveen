@@ -11,7 +11,7 @@ Data Analyst • Visual Designer • Developer
 </p>
 
 <p align="center">
-Creating digital experiences through data and creativity.
+Building digital experiences through data, code, and a bit of creativity
 </p>
 
 <br>
@@ -20,8 +20,8 @@ Creating digital experiences through data and creativity.
 interests:
   - Data mining/analysis
   - machine learning
-  - Visual Design
-  - UI/UX
+  - Graphic Design
+  - UI/UX 
   - Digital Creativity
   - Design Systems
   - Interactive Experiences
