@@ -43,8 +43,3 @@ interests:
 
 </p>
 
-## GitHub Stats
-
-![Manveen's GitHub Stats](https://githubpi?username=mxnveen&show_icons=true&theme=midnight-purple
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=midnight-purple
