@@ -43,5 +43,6 @@ interests:
 
 </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mxnveen&show_icons=true&theme=synthwave" height="195" alt="GitHub Stats" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxnveen&layout=compact&theme=synthwave" height="195" alt="Top Languages" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=mxnveen&show_icons=true&bg_color=1E1E2E&title_color=CBA6F7&text_color=CDD6F4&icon_color=CBA6F7" alt="GitHub Stats" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxnveen&layout=compact&bg_color=1E1E2E&title_color=CBA6F7&text_color=CDD6F4" alt="Top Languages" />
 </div>
