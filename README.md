@@ -44,5 +44,5 @@ interests:
 </p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mxnveen&show_icons=true&theme=radical" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?mxnveen=YOUR_USERNAME&layout=compact&theme=radical" height="195" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxnveen&layout=compact&theme=radical" height="195" alt="Top Languages" />
 </div>
