@@ -3,7 +3,7 @@
 
 <img width="2560" height="1145" alt="github_banner" src="https://github.com/user-attachments/assets/82fff506-c07a-463b-b14d-abc85ae10de8" />
 
-
+```yaml
 <h1 align="center">Manveen Kaur</h1>
 
 <p align="center">
@@ -13,15 +13,15 @@ Data Analyst • Visual Designer • Developer
 <p align="center">
 Building digital experiences through data, code, and a bit of creativity
 </p>
-
+```
 <br>
 
 ```yaml
 interests:
-  - Data mining/analysis
-  - machine learning
+  - Data Mining & Analysis
+  - Machine Learning
   - Graphic Design
-  - UI/UX 
+  - UI / UX
   - Digital Creativity
   - Design Systems
   - Interactive Experiences
